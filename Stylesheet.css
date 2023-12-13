@@ -13,4 +13,21 @@ body, html {
         background-color: hsl(257, 40%, 49%);
 
     }
+
+    .logo-box {
+        margin-top: 70px;
+        margin-left: 18px;
+    }
+    .image-logo {
+        height: 19px;
+        width: 120px;
+        
+    }
+    .illustration-box {
+        margin-left: 38px;
+    }
+    .image-illustration {
+        height: 209px;
+        width: 296px;
+    }
 }
