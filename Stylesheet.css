@@ -46,4 +46,11 @@ body, html {
         background-color: gray;
         border-radius: 15px;
     }
+    .fb, .twitter, .ig {
+        display: inline-block;
+    }
+    .ig-icone {
+        height: 46px;
+        width: 50px;
+    }
 }
