@@ -30,4 +30,15 @@ body, html {
         height: 209px;
         width: 296px;
     }
+    .text-box {
+        text-align: center;
+        
+    }
+    .btn-link {
+        height: 40px;
+        width: 200px;
+        border: solid gray 1px;
+        background-color: gray;
+        border-radius: 15px;
+    }
 }
