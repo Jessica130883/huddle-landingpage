@@ -38,6 +38,7 @@ body, html {
     .text-title1, .text-title2 {
         max-width: 300px;
         text-align: justify;
+        color: white;
     }
     .btn-link {
         height: 40px;
