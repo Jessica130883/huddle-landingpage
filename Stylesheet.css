@@ -31,8 +31,13 @@ body, html {
         width: 296px;
     }
     .text-box {
-        text-align: center;
+       text-align: center;
         
+        
+    }
+    .text-title1, .text-title2 {
+        max-width: 300px;
+        text-align: justify;
     }
     .btn-link {
         height: 40px;
