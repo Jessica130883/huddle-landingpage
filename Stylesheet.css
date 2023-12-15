@@ -15,8 +15,9 @@ body, html {
     }
 
     .logo-box {
-        margin-top: 70px;
+        margin-top: 50px;
         margin-left: 18px;
+        margin-bottom: 20px;
     }
     .image-logo {
         height: 19px;
