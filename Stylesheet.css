@@ -45,14 +45,22 @@ body, html {
     .btn {
         height: 40px;
         width: 200px;
-        border: solid gray 1px;
-        background-color: gray;
-        border-radius: 15px;
-    }
-    .btn-link {
-        color: white;
+        border: solid #FFFFFF 1px;
+        background-color: #FFFFFF;
+        border-radius: 25px;
         
     }
+    .btn-link {
+        color: #684BB1;
+        
+        
+    }
+    
+  .btn-text {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+  }
    
     .fb, .twitter, .ig {
         display: inline-block;
