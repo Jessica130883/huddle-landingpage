@@ -31,7 +31,9 @@ body, html {
         width: 296px;
     }
     .text-box {
-       text-align: center;
+       margin: 0 auto;
+       height: 304px;
+       width: 272px;
         
         
     }
@@ -40,13 +42,18 @@ body, html {
         text-align: justify;
         color: white;
     }
-    .btn-link {
+    .btn {
         height: 40px;
         width: 200px;
         border: solid gray 1px;
         background-color: gray;
         border-radius: 15px;
     }
+    .btn-link {
+        color: white;
+        
+    }
+   
     .fb, .twitter, .ig {
         display: inline-block;
     }
