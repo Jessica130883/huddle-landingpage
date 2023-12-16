@@ -125,6 +125,28 @@ body, html {
   .illustration-box, .text-box {
     float: left;
   }
+
+.btn {
+    height: 53px;
+    width: 199px;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+.btn:hover {
+    background-color: #E880E8;
+}
+.btn-text {
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+  }
+  .btn-link {
+    color: #684BB1;
+    text-decoration: none;
+  }
+  
+ 
    
     .ig-icone {
         height: 46px;
@@ -135,6 +157,7 @@ body, html {
         display: inline-block;   
         
     }
+   
     .socials-box {
         float: right;
         margin-bottom: 20px;
