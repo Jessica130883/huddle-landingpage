@@ -146,18 +146,25 @@ body, html {
     text-decoration: none;
   }
   
- 
-   
-    .ig-icone {
-        height: 46px;
-        width: 50px;
+    .ig:hover {
+        background-image: url(images/icone-ig2.png); 
+        background-position: cover;
         
     }
+    .ig {
+        background-color: #684BB1;
+    }
+  
+    
     .fb, .ig, .twitter {
         display: inline-block;   
         
     }
-   
+
+  .fb {
+    background-color: #684BB1;
+  }
+  
     .socials-box {
         float: right;
         margin-bottom: 20px;
