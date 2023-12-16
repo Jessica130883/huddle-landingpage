@@ -76,3 +76,67 @@ body, html {
         margin-top: -90px;
     }
 }
+
+/* FORMAT DESKTOP */
+
+@media screen and (min-width: 641px) {
+
+    body {
+        background-image: url(images/bg-desktop.svg);
+        background-size: cover;
+        background-color: hsl(257, 40%, 49%);
+
+    }
+
+  
+  .text-title1, .text-title2 {
+    max-width: 400px;
+    color: white;
+
+  }
+  .text-title1 {
+    height: 120px;
+    width: 487px;
+    font-size: 40px;
+    font-weight: 80px;
+    line-height: 60px;
+  }
+  .text-title2 {
+    height: 81px;
+    width: 520px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+ .illustration-box {
+    height: 493px;
+    width: 696px;
+    text-align: center;
+    margin-left: 40px;
+    
+ }
+
+   
+  .text-box {
+    height: 225px;
+    width: 520px;
+    margin: 50px 0 300px 50px;
+   
+  }
+  .illustration-box, .text-box {
+    float: left;
+  }
+   
+    .ig-icone {
+        height: 46px;
+        width: 50px;
+        
+    }
+    .fb, .ig, .twitter {
+        display: inline-block;   
+        
+    }
+    .socials-box {
+        float: right;
+        margin-bottom: 20px;
+    }
+}
