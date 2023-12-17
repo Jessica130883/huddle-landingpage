@@ -146,27 +146,29 @@ body, html {
     text-decoration: none;
   }
   
-    .ig:hover {
-        background-image: url(images/icone-ig2.png); 
-        background-position: cover;
+    .fb-icone:hover, .twitter:hover, .ig:hover {
+        background-image: url(images/backgroung-socials.png); 
+        background-size: 40px;
+        
         
     }
-    .ig {
-        background-color: #684BB1;
+    .twitter, .ig, .fb {
+      height: 40px;
+      width: 40px;
     }
+   
   
     
     .fb, .ig, .twitter {
         display: inline-block;   
         
+        
     }
 
-  .fb {
-    background-color: #684BB1;
-  }
   
     .socials-box {
         float: right;
         margin-bottom: 20px;
+        
     }
 }
