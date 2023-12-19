@@ -171,4 +171,8 @@ body, html {
         margin-bottom: 20px;
         
     }
+    .main-title {
+      font-family: 'Poppins', sans-serif;
+      font-family: 'Yrsa', serif;
+    }
 }
