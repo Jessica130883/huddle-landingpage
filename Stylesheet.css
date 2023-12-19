@@ -80,7 +80,7 @@ body, html {
     }
     .socials-box {
         text-align: center;
-        margin-top: -90px;
+        
     }
 }
 
@@ -174,8 +174,8 @@ body, html {
 
   
     .socials-box {
-        float: right;
-        margin-bottom: 20px;
+      float: right;
+      margin-bottom: 20px;
         
     }
    
