@@ -2,6 +2,13 @@ body, html {
     margin: 0;
     padding: 0;
 }
+.main-title, .btn-text {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Yrsa', serif;
+}
+.text-title2 {
+  font-family: 'Yrsa', serif;
+}
 
 /* FORMAT MOBILE*/
 
@@ -171,8 +178,5 @@ body, html {
         margin-bottom: 20px;
         
     }
-    .main-title {
-      font-family: 'Poppins', sans-serif;
-      font-family: 'Yrsa', serif;
-    }
+   
 }
